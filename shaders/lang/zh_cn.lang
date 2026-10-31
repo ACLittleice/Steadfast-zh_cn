@@ -1,1 +1,272 @@
+option.STEADFAST=Steadfast 光影
+option.STEADFAST.comment=由 coderbot16（Iris 的原作者）制作。
+value.STEADFAST.BY_CODERBOT=由 coderbot16 制作
+profile.MINISHITA_HIGH=§aMinishita（开发中）§r风格 - §b🔥 高§r
+profile.MINISHITA_HIGH=§aMinishita（开发中）§r风格 - §b🔥 高§r
+profile.MINISHITA_MEDIUM=§aMinishita（开发中）§r风格 - §a» 中§r
+profile.MINISHITA_LOW=§aMinishita（开发中）§r风格 - §e↓ 低§r
+profile.MINISHITA_TOASTER=§aMinishita（开发中）§r风格 - §c▶ 烤面包机§r
+profile.PARAGON_HIGH=§a★ Paragon§r风格 - §b🔥 高§r
+profile.PARAGON_MEDIUM=§a★ Paragon§r风格 - §a» 中§r
+profile.PARAGON_LOW=§a★ Paragon§r风格 - §e↓ 低§r
+profile.PARAGON_TOASTER=§a★ Paragon§r风格 - §c▶ 烤面包机§r
+profile.FANTASY_HIGH=§d🪄 幻想§r风格 - §b🔥 高§r
+profile.FANTASY_MEDIUM=§d🪄 幻想§r风格 - §a» 中§r
+profile.FANTASY_LOW=§d🪄 幻想§r风格 - §e↓ 低§r
+profile.FANTASY_TOASTER=§d🪄 幻想§r风格 - §c▶ 烤面包机§r
+profile.SEMI_NATURAL_HIGH=§b🗻 半自然§r风格 - §b🔥 高§r
+profile.SEMI_NATURAL_MEDIUM=§b🗻 半自然§r风格 - §a» 中§r
+profile.SEMI_NATURAL_LOW=§b🗻 半自然§r风格 - §e↓ 低§r
+profile.SEMI_NATURAL_TOASTER=§b🗻 半自然§r风格 - §c▶ 烤面包机§r
+profile.RETRO_MEDIUM=§6😎 复古§r风格 - §a» 中§r
+profile.RETRO_LOW=§6😎 复古§r风格 - §e↓ 低§r
+profile.RETRO_TOASTER=§6😎 复古§r风格 - §c▶ 烤面包机§r
+profile.comment=\
+	§a★ Paragon§r：Steadfast 的旗舰风格。 \
+	色彩丰富且令人愉悦，Paragon 将半自然（白天）与 \
+	幻想（夜晚）风格融为一体，是 Steadfast 所能提供的最佳之选。\n\n\
+	\
+	§d🪄 幻想§r：一种强调蓝与黄的温暖风格。 \
+	幻想从 Chocapic13 光影及 Sildur's 光影等修改版的经典外观中汲取灵感。\n\n\
+	\
+	§b⛰ 半自然§r：一种明亮、注重真实感的风格。 \
+	半自然从 SEUS v10.1 时代更明亮、更冷峻的美学中汲取灵感，近似于更“自然”/“真实”的外观。\n\n\
+	\
+	§6😎 复古§r：一种温暖、舒适且非常轻量的风格。 \
+	回归 2012 年的光影，复古具有柔和的阳光与阴影对比度、无日光方向性着色（类似内置光影），并使用原版水面纹理。\n\n\
+	\
+	§b🔥 高§r / §a» 中§r / §e↓ 低§r / §c▶ 烤面包机§r - 预设的画质与性能平衡方案，让你可以针对自己的设备调整 Steadfast。
 
+screen.EFFECTS=效果与后处理
+option.GODRAYS=体积光
+option.NIGHT_DESATURATION_EFFECT=夜间去饱和度（浦肯野效应）
+option.TONEMAP=色调映射
+value.TONEMAP.TONEMAP_UCHIMURA=Uchimura（GT赛车）
+value.TONEMAP.TONEMAP_UNCHARTED2=Hable（神秘海域2）
+option.SATURATED_TONEMAP=饱和 Hable 色调映射
+option.WAVING_FOLIAGE=植被摆动（风）
+
+screen.WATER=水面与染色玻璃
+option.SCREENSPACE_REFLECTIONS=屏幕空间反射
+option.SCREENSPACE_REFRACTION=屏幕空间折射
+option.ROUGH_REFRACTION=粗糙折射（模糊）
+option.ROUGH_REFRACTION_STRENGTH=粗糙折射强度
+option.WATER_SURFACE=水面效果
+value.WATER_SURFACE.NOISE=波浪（噪声）
+value.WATER_SURFACE.BASIC=波浪（基础）
+option.FANCY_TRANSLUCENTS=全部水/冰效果
+option.VANILLA_ISH_WATER=原版风格水面纹理
+option.WATER_CAUSTICS=水下焦散
+option.WATER_CAUSTICS_DISTANCE=焦散距离
+value.WATER_CAUSTICS_DISTANCE.8.0=最小（8格）
+value.WATER_CAUSTICS_DISTANCE.16.0=非常低（16格）
+value.WATER_CAUSTICS_DISTANCE.24.0=低（24格）
+value.WATER_CAUSTICS_DISTANCE.32.0=中（32格）
+value.WATER_CAUSTICS_DISTANCE.48.0=高（48格）
+value.WATER_CAUSTICS_DISTANCE.64.0=极限（64格）
+screen.WATER_SURFACE_NOISE=噪声波浪设置
+
+screen.ATMOSPHERE_CLOUDS=大气与云
+option.PLANAR_CLOUD_LAYERS=卷云
+value.PLANAR_CLOUD_LAYERS.0=关闭
+value.PLANAR_CLOUD_LAYERS.1=轻（1层）
+value.PLANAR_CLOUD_LAYERS.2=中（2层）
+value.PLANAR_CLOUD_LAYERS.3=重（3层）
+value.PLANAR_CLOUD_LAYERS.4=极限（4层）
+option.VANILLA_CLOUDS=方块云（原版）
+option.BORDER_FOG=边界雾（渲染距离）
+option.ATMOSPHERE_FOG_STRENGTH_NOON=正午大气雾强度
+option.ATMOSPHERE_MODEL=大气模型
+value.ATMOSPHERE_MODEL.MINISHITA=半真实（Nishita）
+value.ATMOSPHERE_MODEL.GRADIENT=渐变
+option.HORIZON_OCCLUDES_SUN_AND_MOON=地平线遮挡太阳/月亮
+option.HORIZON_OCCLUDES_SUN_AND_MOON.comment=启用后，太阳和月亮会在地平线后逐渐消失。
+screen.LEGACY_ATMOSPHERE=渐变大气设置
+
+screen.LIGHTING=光照与阴影
+
+option.ambientOcclusionLevel=环境光遮蔽（AO）
+value.ambientOcclusionLevel.0.0=关闭
+value.ambientOcclusionLevel.0.1=10%
+value.ambientOcclusionLevel.0.2=20%
+value.ambientOcclusionLevel.0.3=30%
+value.ambientOcclusionLevel.0.4=40%
+value.ambientOcclusionLevel.0.5=50%
+value.ambientOcclusionLevel.0.6=60%
+value.ambientOcclusionLevel.0.7=70%
+value.ambientOcclusionLevel.0.8=80%
+value.ambientOcclusionLevel.0.9=90%
+value.ambientOcclusionLevel.1.0=100%
+option.DIRECT_LIGHT_AMBIENT_OCCLUSION=全局环境光遮蔽
+value.DIRECT_LIGHT_AMBIENT_OCCLUSION.0.0=关闭
+value.DIRECT_LIGHT_AMBIENT_OCCLUSION.0.1=10%
+value.DIRECT_LIGHT_AMBIENT_OCCLUSION.0.2=20%
+value.DIRECT_LIGHT_AMBIENT_OCCLUSION.0.3=30%
+value.DIRECT_LIGHT_AMBIENT_OCCLUSION.0.4=40%
+value.DIRECT_LIGHT_AMBIENT_OCCLUSION.0.5=50%
+value.DIRECT_LIGHT_AMBIENT_OCCLUSION.0.6=60%
+value.DIRECT_LIGHT_AMBIENT_OCCLUSION.0.7=70%
+value.DIRECT_LIGHT_AMBIENT_OCCLUSION.0.8=80%
+value.DIRECT_LIGHT_AMBIENT_OCCLUSION.0.9=90%
+value.DIRECT_LIGHT_AMBIENT_OCCLUSION.1.0=100%
+option.DIRECT_LIGHT_AMBIENT_OCCLUSION.comment=即使在直射阳光和月光下也应用环境光遮蔽。100% 与原版 Minecraft 光照匹配，使所有光照看起来更柔和，但启用此选项并不真实。
+
+option.BLOCKLIGHT_COLOR=方块光照
+value.BLOCKLIGHT_COLOR.BLACKBODY_250K=红（250K）
+value.BLOCKLIGHT_COLOR.BLACKBODY_500K=红（500K）
+value.BLOCKLIGHT_COLOR.BLACKBODY_750K=红（750K）
+value.BLOCKLIGHT_COLOR.BLACKBODY_1000K=红（1000K）
+value.BLOCKLIGHT_COLOR.BLACKBODY_1250K=极暖（1250K）
+value.BLOCKLIGHT_COLOR.BLACKBODY_1500K=极暖（1500K）
+value.BLOCKLIGHT_COLOR.BLACKBODY_1750K=极暖（1750K）
+value.BLOCKLIGHT_COLOR.BLACKBODY_2000K=非常暖（2000K）
+value.BLOCKLIGHT_COLOR.BLACKBODY_2250K=非常暖（2250K）
+value.BLOCKLIGHT_COLOR.BLACKBODY_2500K=非常暖（2500K）
+value.BLOCKLIGHT_COLOR.BLACKBODY_2750K=非常暖（2750K）
+value.BLOCKLIGHT_COLOR.BLACKBODY_3000K=暖（3000K）
+value.BLOCKLIGHT_COLOR.BLACKBODY_3250K=暖（3250K）
+value.BLOCKLIGHT_COLOR.BLACKBODY_3500K=暖（3500K）
+value.BLOCKLIGHT_COLOR.BLACKBODY_3750K=暖（3750K）
+value.BLOCKLIGHT_COLOR.BLACKBODY_4000K=中性（4000K）
+value.BLOCKLIGHT_COLOR.BLACKBODY_4250K=中性（4250K）
+value.BLOCKLIGHT_COLOR.BLACKBODY_4500K=中性（4500K）
+value.BLOCKLIGHT_COLOR.BLACKBODY_4750K=中性（4750K）
+value.BLOCKLIGHT_COLOR.BLACKBODY_5000K=冷（5000K）
+value.BLOCKLIGHT_COLOR.BLACKBODY_5250K=冷（5250K）
+value.BLOCKLIGHT_COLOR.BLACKBODY_5500K=冷（5500K）
+value.BLOCKLIGHT_COLOR.BLACKBODY_5750K=冷（5750K）
+value.BLOCKLIGHT_COLOR.BLACKBODY_6000K=寒冷（6000K）
+value.BLOCKLIGHT_COLOR.BLACKBODY_6250K=寒冷（6250K）
+value.BLOCKLIGHT_COLOR.BLACKBODY_6500K=寒冷（6500K）
+value.BLOCKLIGHT_COLOR.BLACKBODY_6750K=寒冷（6750K）
+value.BLOCKLIGHT_COLOR.BLACKBODY_7000K=非常寒冷（7000K）
+value.BLOCKLIGHT_COLOR.BLACKBODY_7250K=非常寒冷（7250K）
+value.BLOCKLIGHT_COLOR.BLACKBODY_7500K=非常寒冷（7500K）
+value.BLOCKLIGHT_COLOR.LIGHT_MAGIC=紫色（魔法）
+value.BLOCKLIGHT_COLOR.LIGHT_CUSTOM=自定义（见滑块）
+
+option.HELD_LIGHT_COLOR=手持光照
+value.HELD_LIGHT_COLOR.BLACKBODY_250K=红（250K）
+value.HELD_LIGHT_COLOR.BLACKBODY_500K=红（500K）
+value.HELD_LIGHT_COLOR.BLACKBODY_750K=红（750K）
+value.HELD_LIGHT_COLOR.BLACKBODY_1000K=红（1000K）
+value.HELD_LIGHT_COLOR.BLACKBODY_1250K=极暖（1250K）
+value.HELD_LIGHT_COLOR.BLACKBODY_1500K=极暖（1500K）
+value.HELD_LIGHT_COLOR.BLACKBODY_1750K=极暖（1750K）
+value.HELD_LIGHT_COLOR.BLACKBODY_2000K=非常暖（2000K）
+value.HELD_LIGHT_COLOR.BLACKBODY_2250K=非常暖（2250K）
+value.HELD_LIGHT_COLOR.BLACKBODY_2500K=非常暖（2500K）
+value.HELD_LIGHT_COLOR.BLACKBODY_2750K=非常暖（2750K）
+value.HELD_LIGHT_COLOR.BLACKBODY_3000K=暖（3000K）
+value.HELD_LIGHT_COLOR.BLACKBODY_3250K=暖（3250K）
+value.HELD_LIGHT_COLOR.BLACKBODY_3500K=暖（3500K）
+value.HELD_LIGHT_COLOR.BLACKBODY_3750K=暖（3750K）
+value.HELD_LIGHT_COLOR.BLACKBODY_4000K=中性（4000K）
+value.HELD_LIGHT_COLOR.BLACKBODY_4250K=中性（4250K）
+value.HELD_LIGHT_COLOR.BLACKBODY_4500K=中性（4500K）
+value.HELD_LIGHT_COLOR.BLACKBODY_4750K=中性（4750K）
+value.HELD_LIGHT_COLOR.BLACKBODY_5000K=冷（5000K）
+value.HELD_LIGHT_COLOR.BLACKBODY_5250K=冷（5250K）
+value.HELD_LIGHT_COLOR.BLACKBODY_5500K=冷（5500K）
+value.HELD_LIGHT_COLOR.BLACKBODY_5750K=冷（5750K）
+value.HELD_LIGHT_COLOR.BLACKBODY_6000K=寒冷（6000K）
+value.HELD_LIGHT_COLOR.BLACKBODY_6250K=寒冷（6250K）
+value.HELD_LIGHT_COLOR.BLACKBODY_6500K=寒冷（6500K）
+value.HELD_LIGHT_COLOR.BLACKBODY_6750K=寒冷（6750K）
+value.HELD_LIGHT_COLOR.BLACKBODY_7000K=非常寒冷（7000K）
+value.HELD_LIGHT_COLOR.BLACKBODY_7250K=非常寒冷（7250K）
+value.HELD_LIGHT_COLOR.BLACKBODY_7500K=非常寒冷（7500K）
+value.HELD_LIGHT_COLOR.LIGHT_MAGIC=紫色（魔法）
+value.HELD_LIGHT_COLOR.LIGHT_CUSTOM=自定义（见滑块）
+
+screen.MATERIALS=材质与 PBR
+option.EMISSIVE_DETECTION=检测常见自发光物体
+
+screen.RESOURCE_PACK_MATERIALS=资源包材质
+option.PBR_NORMAL_MAPPING=法线贴图（任意资源包）
+option.PBR_NORMAL_MAPPING.comment=兼容所有 PBR 资源包。
+option.LABPBR_AMBIENT_OCCLUSION=环境光遮蔽（labPBR）
+option.LABPBR_AMBIENT_OCCLUSION.comment=需要 labPBR 资源包（大多数现代 PBR 资源包）
+
+screen.DEVELOPMENT=开发与调试
+
+option.shadowDistance=阴影距离
+value.shadowDistance.32.0=最小（2区块）
+value.shadowDistance.48.0=非常低（3区块）
+value.shadowDistance.64.0=低（4区块）
+value.shadowDistance.80.0=低（5区块）
+value.shadowDistance.96.0=低（6区块）
+value.shadowDistance.112.0=中（7区块）
+value.shadowDistance.128.0=中（8区块）
+value.shadowDistance.144.0=中（9区块）
+value.shadowDistance.160.0=正常（10区块）
+value.shadowDistance.192.0=高（12区块）
+value.shadowDistance.256.0=极限（16区块）
+option.shadowDistance.comment=阴影渲染距离控制地形能够投射或接收实时阴影的最远距离。\n\n\
+	超出此距离的地形将基于天空光照投射并接收近似、静态的阴影。\n\n\
+	较低的距离意味着需要渲染的地形更少，从而提高帧率。\n\n\
+	实际阴影渲染距离受“视频设置”中的“视野距离”限制。
+
+option.sunPathRotation=太阳路径角度（度）
+
+option.SURFACE_COLORS=表面颜色
+value.SURFACE_COLORS.STANDARD=标准
+value.SURFACE_COLORS.NONE=无（白色世界）
+value.SURFACE_COLORS.VERTEX_COLOR=顶点颜色（植物）
+option.SURFACE_COLORS.comment=设置为“无”时，对象的基础颜色将被忽略，所有表面均视为白色处理。 \
+	使用顶点颜色时，仅忽略纹理颜色，因此植物仍保持绿色。 \
+	这对调试光照很有用。 \
+	Alpha 测试仍会应用。
+option.SKY_DITHER=天空抖动强度
+
+screen.WATER_ABSORPTION=水吸收与散射
+option.WATER_CHARACTER=水吸收预设
+value.WATER_CHARACTER.CLEAR=极清澈
+value.WATER_CHARACTER.CUSTOM_WATER_ATTENUATION_COEFFICIENTS=自定义
+
+option.CUSTOM_WATER_ABSORPTION_R=红色
+option.CUSTOM_WATER_ABSORPTION_R_MAGNITUDE=红色 ×
+value.CUSTOM_WATER_ABSORPTION_R_MAGNITUDE.0.0001=0.0001/m
+value.CUSTOM_WATER_ABSORPTION_R_MAGNITUDE.0.001=0.001/m
+value.CUSTOM_WATER_ABSORPTION_R_MAGNITUDE.0.01=0.01/m
+value.CUSTOM_WATER_ABSORPTION_R_MAGNITUDE.0.1=0.1/m
+value.CUSTOM_WATER_ABSORPTION_R_MAGNITUDE.1.0=1/m
+value.CUSTOM_WATER_ABSORPTION_R_MAGNITUDE.10.0=10/m
+value.CUSTOM_WATER_ABSORPTION_R_MAGNITUDE.100.0=100/m
+value.CUSTOM_WATER_ABSORPTION_R_MAGNITUDE.1000.0=1000/m
+option.CUSTOM_WATER_ABSORPTION_G=绿色
+option.CUSTOM_WATER_ABSORPTION_G_MAGNITUDE=绿色 ×
+value.CUSTOM_WATER_ABSORPTION_G_MAGNITUDE.0.0001=0.0001/m
+value.CUSTOM_WATER_ABSORPTION_G_MAGNITUDE.0.001=0.001/m
+value.CUSTOM_WATER_ABSORPTION_G_MAGNITUDE.0.01=0.01/m
+value.CUSTOM_WATER_ABSORPTION_G_MAGNITUDE.0.1=0.1/m
+value.CUSTOM_WATER_ABSORPTION_G_MAGNITUDE.1.0=1/m
+value.CUSTOM_WATER_ABSORPTION_G_MAGNITUDE.10.0=10/m
+value.CUSTOM_WATER_ABSORPTION_G_MAGNITUDE.100.0=100/m
+value.CUSTOM_WATER_ABSORPTION_G_MAGNITUDE.1000.0=1000/m
+option.CUSTOM_WATER_ABSORPTION_B=蓝色
+option.CUSTOM_WATER_ABSORPTION_B_MAGNITUDE=蓝色 ×
+value.CUSTOM_WATER_ABSORPTION_B_MAGNITUDE.0.0001=0.0001/m
+value.CUSTOM_WATER_ABSORPTION_B_MAGNITUDE.0.001=0.001/m
+value.CUSTOM_WATER_ABSORPTION_B_MAGNITUDE.0.01=0.01/m
+value.CUSTOM_WATER_ABSORPTION_B_MAGNITUDE.0.1=0.1/m
+value.CUSTOM_WATER_ABSORPTION_B_MAGNITUDE.1.0=1/m
+value.CUSTOM_WATER_ABSORPTION_B_MAGNITUDE.10.0=10/m
+value.CUSTOM_WATER_ABSORPTION_B_MAGNITUDE.100.0=100/m
+value.CUSTOM_WATER_ABSORPTION_B_MAGNITUDE.1000.0=1000/m
+
+option.WATER_SCATTER=水散射
+option.WATER_SCATTER_MAGNITUDE=水散射 ×
+value.WATER_SCATTER_MAGNITUDE.0.0001=0.0001/m
+value.WATER_SCATTER_MAGNITUDE.0.001=0.001/m
+value.WATER_SCATTER_MAGNITUDE.0.01=0.01/m
+value.WATER_SCATTER_MAGNITUDE.0.1=0.1/m
+value.WATER_SCATTER_MAGNITUDE.1.0=1/m
+value.WATER_SCATTER_MAGNITUDE.10.0=10/m
+value.WATER_SCATTER_MAGNITUDE.100.0=100/m
+value.WATER_SCATTER_MAGNITUDE.1000.0=1000/m
+
+option.WATER_SCATTER_COLOR_R=红色散射权重
+option.WATER_SCATTER_COLOR_G=绿色散射权重
+option.WATER_SCATTER_COLOR_B=蓝色散射权重
+option.WATER_SCATTER_LUMINANCE=水散射亮度
