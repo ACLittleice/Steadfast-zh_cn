@@ -1,3 +1,6 @@
+[![中文](https://img.shields.io/badge/语言-中文-red)](README.zh.md) 
+[![English](https://img.shields.io/badge/lang-English-blue)](README.md)
+
 # Steadfast for Minecraft: Java Edition
 
 Steadfast is a remarkably fast and unobtrusive shader pack with exceptional
